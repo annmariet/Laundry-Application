@@ -1,0 +1,56 @@
+{"machines": [
+    {
+        "broken": false,
+        "name": "dryer",
+        "inUse": false,
+        "x": 237,
+        "y": 570,
+        "uses": 0,
+        "type": "dryer"
+    },
+    {
+        "broken": false,
+        "name": "dryer",
+        "inUse": false,
+        "x": 561,
+        "y": 578,
+        "uses": 0,
+        "type": "dryer"
+    },
+    {
+        "broken": false,
+        "name": "dryer",
+        "inUse": false,
+        "x": 798,
+        "y": 487,
+        "uses": 0,
+        "type": "dryer"
+    },
+    {
+        "broken": false,
+        "name": "dryer",
+        "inUse": false,
+        "x": 764,
+        "y": 353,
+        "uses": 0,
+        "type": "dryer"
+    },
+    {
+        "broken": false,
+        "name": "washer",
+        "inUse": false,
+        "x": 214,
+        "y": 313,
+        "uses": 0,
+        "type": "washer"
+    },
+    {
+        "broken": false,
+        "name": "washer",
+        "inUse": false,
+        "x": 527,
+        "y": 326,
+        "uses": 0,
+        "type": "washer"
+    }
+]}

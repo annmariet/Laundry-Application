@@ -1,0 +1,31 @@
+{
+  "machines": [
+    {
+      "name": "washer1",
+      "type": "washer",
+      "inUse": "true",
+      "broken": "false",
+      "uses": 2,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "dryer1",
+      "type": "dryer",
+      "inUse": "false",
+      "broken": "false",
+      "uses": 1,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "dryer2",
+      "type": "dryer",
+      "inUse": "false",
+      "broken": "true",
+      "uses": 0,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}
